@@ -1,1 +1,6 @@
-
+targetCustomizations:
+  - name: colorize
+    yaml:
+      overlays:
+        - green-color
+    clusterGroup: group-b
