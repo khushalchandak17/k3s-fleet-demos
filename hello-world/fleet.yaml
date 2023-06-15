@@ -3,9 +3,11 @@ targetCustomizations:
     yaml:
       overlays:
         - green-color
+    clusterName: ds1
 #   clusterGroup: group-b
     
-    clusterSelector:
-      matchLabels:
-       # group1: all
-        group: b 
+#    clusterSelector:
+#      matchLabels:
+#       # group1: all
+#        group: b 
+
