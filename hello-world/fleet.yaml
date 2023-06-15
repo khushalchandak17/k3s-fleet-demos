@@ -4,6 +4,8 @@ targetCustomizations:
       overlays:
         - green-color
 #   clusterGroup: group-b
+    
     clusterSelector:
       matchLabels:
-        group1: all
+       # group1: all
+        group: b 
