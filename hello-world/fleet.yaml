@@ -3,7 +3,7 @@ targetCustomizations:
     yaml:
       overlays:
         - green-color
-    clusterName: stark2
+    clusterName: stark1
 #    clusterGroup: group-b
     
 #    clusterSelector:
