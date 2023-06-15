@@ -3,7 +3,7 @@ targetCustomizations:
     yaml:
       overlays:
         - green-color
-    clusterName: stark1
+    clusterName: c-nxftw
 #    clusterGroup: group-b
     
 #    clusterSelector:
